@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MT_Kurs.MVC.Admin.AdminController">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MVC\Admin\AdminController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MT_Kurs.MVC.Cart.CartController">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASAAAAAAAAQAACCAAAAAAAAAAAAAIAAJAABAAAAAA=</HashCode>
+      <FileName>MVC\Cart\CartController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MT_Kurs.MVC.DataBase.DataBaseController">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAgAAAAAAAEAAAAgRAAAQCAAAAgAAIAABAAAAA=</HashCode>
+      <FileName>MVC\DataBase\DataBaseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MT_Kurs.MVC.Login.LoginController">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQABAAAAAAAAAAAAAAAAAECQAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>MVC\Login\LoginController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MT_Kurs.MVC.Registration.RegistrationController">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAIAAAAAAAAAAAAAAAAgQAAAAABAAAAAAgAAAA=</HashCode>
+      <FileName>MVC\Registration\RegistrationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

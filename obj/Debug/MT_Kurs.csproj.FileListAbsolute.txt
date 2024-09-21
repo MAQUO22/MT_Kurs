@@ -1,0 +1,55 @@
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\MT_Kurs.exe.config
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\MT_Kurs.exe
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\MT_Kurs.pdb
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.csproj.AssemblyReference.cache
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.csproj.SuggestedBindingRedirects.cache
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.Properties.Resources.resources
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.csproj.GenerateResource.cache
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.csproj.CoreCompileInputs.cache
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.exe
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.pdb
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\MT_Kurs.exe.config
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\MT_Kurs.exe
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\MT_Kurs.pdb
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.csproj.AssemblyReference.cache
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.csproj.SuggestedBindingRedirects.cache
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.Properties.Resources.resources
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.csproj.GenerateResource.cache
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.csproj.CoreCompileInputs.cache
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.exe
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.pdb
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\Castle.Core.dll
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\Moq.AutoMock.dll
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\Moq.dll
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\System.ValueTuple.dll
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\Castle.Core.xml
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\Moq.xml
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\Moq.AutoMock.xml
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C# projects\MT_Kurs\MT_Kurs\bin\Debug\System.ValueTuple.xml
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.csproj.CopyComplete
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.CartView.resources
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.LoginView.resources
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.MarketView.resources
+D:\C# projects\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.RegistrationView.resources
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\Castle.Core.dll
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\Moq.AutoMock.dll
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\Moq.dll
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\System.ValueTuple.dll
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\Castle.Core.xml
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\Moq.xml
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\Moq.AutoMock.xml
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\bin\Debug\System.ValueTuple.xml
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.CartView.resources
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.LoginView.resources
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.MarketView.resources
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.RegistrationView.resources
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.csproj.CopyComplete
+D:\бнту 3 курс\MT_Kurs\MT_Kurs\obj\Debug\MT_Kurs.MVC.Admin.AdminView.resources
